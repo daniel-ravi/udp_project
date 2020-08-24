@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="600286797">
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="checkudp" lineNumber="22"/>
+    <functiondecl functionName="udpworking" lineNumber="47"/>
+    <functiondecl functionName="main" lineNumber="65"/>
+    <functioncall functionName="AF_INET"/>
+    <functioncall functionName="SOCK_DGRAM"/>
+    <functioncall functionName="WSACleanup"/>
+    <functioncall functionName="WSAGetLastError"/>
+    <functioncall functionName="WSAStartup"/>
+    <functioncall functionName="argc"/>
+    <functioncall functionName="argv"/>
+    <functioncall functionName="c_str"/>
+    <functioncall functionName="char"/>
+    <functioncall functionName="checkudp"/>
+    <functioncall functionName="closesocket"/>
+    <functioncall functionName="data"/>
+    <functioncall functionName="htons"/>
+    <functioncall functionName="if"/>
+    <functioncall functionName="inet_pton"/>
+    <functioncall functionName="long"/>
+    <functioncall functionName="out"/>
+    <functioncall functionName="portnumber"/>
+    <functioncall functionName="return"/>
+    <functioncall functionName="s"/>
+    <functioncall functionName="sendto"/>
+    <functioncall functionName="server"/>
+    <functioncall functionName="short"/>
+    <functioncall functionName="sin_addr"/>
+    <functioncall functionName="size"/>
+    <functioncall functionName="sizeof"/>
+    <functioncall functionName="socket"/>
+    <functioncall functionName="udpworking"/>
+    <functioncall functionName="version"/>
+  </FileInfo>
+</analyzerinfo>
